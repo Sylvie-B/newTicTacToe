@@ -38,3 +38,22 @@ body {
     font-size: 10vw;
 }
 
+#won{
+    border: 1px solid blue;
+    width: 80%;
+    margin: 20px auto;
+    height: 50px;
+    text-align: center;
+    font-size: 1.6rem;
+    vertical-align: middle;
+}
+
+#reset{
+    padding: 20px;
+    background: darkcyan;
+    color : white;
+    font-weight: bold;
+    border: solid 1px blue;
+    border-radius: 10px;
+}
+
